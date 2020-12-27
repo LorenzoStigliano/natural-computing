@@ -1,3 +1,5 @@
+## Natural Computing Coursework
+
 This codebase is a useful framework for analysing the effects of PSO, genetic algorithms and genetic programming on the optimisation of neural networks.
 Specifically, this base is geared towards analysing the two sprirals dataset provided in the coursework specs, but much functionality can be extended towards more general usage.
 
